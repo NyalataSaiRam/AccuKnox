@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+    background-color: aliceblue;
+}
+
+@theme {
+    --color-my-blue: aliceblue;
+    --color-icon-blue: rgb(90, 124, 153);
+}

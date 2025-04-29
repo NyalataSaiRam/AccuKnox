@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "category": "CSPM Executive Dashboard",
+        "chartData": [
+            {
+                "id": 11,
+                "title": "Cloud Accounts",
+                "show": true,
+                "data": [
+                    {
+                        "label": "Connected",
+                        "value": 2
+                    },
+                    {
+                        "label": "Not connected",
+                        "value": 2
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "title": "Cloud Account Risk Management",
+                "show": true,
+                "data": [
+                    {
+                        "label": "Failed",
+                        "value": 1689
+                    },
+                    {
+                        "label": "Warning",
+                        "value": 681
+                    },
+                    {
+                        "label": "Not available",
+                        "value": 365
+                    },
+                    {
+                        "label": "Passed",
+                        "value": 7253
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "CWPP Dashboard",
+        "chartData": [
+            {
+                "id": 21,
+                "title": "Top 5 Namespace Specific Alerts",
+                "show": true,
+                "data": ""
+            },
+            {
+                "id": 22,
+                "title": "Workload Alerts",
+                "show": true,
+                "data": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Registry Scan",
+        "chartData": [
+            {
+                "id": 31,
+                "title": "Image Risk Assessment",
+                "subTitle": "Total Vulnerabilities",
+                "show": true,
+                "data": [
+                    {
+                        "label": "Critical",
+                        "value": 9
+                    },
+                    {
+                        "label": "High",
+                        "value": 150
+                    },
+                    {
+                        "label": "Moderate",
+                        "value": 370
+                    },
+                    {
+                        "label": "Low",
+                        "value": 200
+                    },
+                    {
+                        "label": "OK",
+                        "value": 100
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "title": "Image Security Issues",
+                "subTitle": "Total Images",
+                "show": true,
+                "data": [
+                    {
+                        "label": "Critical",
+                        "value": 2
+                    },
+                    {
+                        "label": "High",
+                        "value": 2
+                    },
+                    {
+                        "label": "Moderate",
+                        "value": 2
+                    },
+                    {
+                        "label": "Low",
+                        "value": 1
+                    },
+                    {
+                        "label": "OK",
+                        "value": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
