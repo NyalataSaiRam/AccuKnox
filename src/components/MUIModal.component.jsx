@@ -47,6 +47,7 @@ export const MUIModal = ({ open, setOpen, catId }) => {
                 }
             } else {
                 alert("No. of labels and values should be equal.");
+                return;
             }
             const newData = {
                 id: newId,
@@ -91,6 +92,7 @@ export const MUIModal = ({ open, setOpen, catId }) => {
                 }
             } else {
                 alert("No. of labels and values should be equal to 5.");
+                return;
             }
 
 
