@@ -16,6 +16,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 1. Install node
 2. Clone the git repository
-3. Open terminal inside frontend folder, execute command `npm install` to install all dependencies
+3. Open terminal inside AccuKnox-main folder, execute command `npm install` to install all dependencies
 4. Then execute command `npm run dev` to locally run the application
 5. Open brower, type `http://localhost:5173/`
